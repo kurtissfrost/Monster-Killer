@@ -13,7 +13,7 @@ I am not 100% sure if I am going to keep this on here. I haven't quite made my m
 
 ## About Monster Killer:
 
-This is a SUPER EARLY alpha build of a text based adventure game that I am working on. I am currently teaching myself pythin and this is as far as I have made it in the "development" of this. As I learn more, I will add more features.
+Monster Killer is a passion project born out of my love for RPGs. It darws influence from Final Fantasy, NetHack, Dungeons & Dragons, and Sanctuary: Black Edition. This is a SUPER EARLY alpha build of a text based adventure game that I am working on. I am currently teaching myself pythin and this is as far as I have made it in the "development" of this. As I learn more, I will add more features.
 
 ## Deployment <br />
 
