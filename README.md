@@ -26,3 +26,7 @@ To deploy this project run
 ## Contributing
 
 Contributions are always welcome!
+
+---
+
+[![Buy Me - A Coffee](https://img.shields.io/badge/Buy_Me-A_Coffee-FFDD00?style=for-the-badge&logo=buy+me+a+coffee&logoColor=ffffff)](https://www.buymeacoffee.com/frostkurti0)
